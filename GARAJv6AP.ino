@@ -14,7 +14,7 @@ ONUR YONTAR 2021
 #include <ArduinoOTA.h>
 #include <ESP8266WiFi.h>
 
-const char WiFiPassword[] = "1234567"; // wifi şifresini buradan değiştirebilirsiniz.
+const char WiFiPassword[] = "12345678"; // wifi şifresini buradan değiştirebilirsiniz.
 const char AP_NameChar[] = "GARAJ_KAPISI_AP" ; // Wifi adının buradan değiştirebilirsiniz. 
  
 WiFiServer server(80);
