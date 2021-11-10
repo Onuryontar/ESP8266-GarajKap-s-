@@ -31,14 +31,14 @@ String html_7 = "</div></body></html>";
 String request = "";
 
 
-#define LEDR D5 
-#define AROLE D6
-#define KROLE D7
-#define BTNA D3
-#define BTNK D4
-#define SNRA D1
-#define SNRK D2
-#define LDR D0
+#define LEDR D5 // Projektör Rölesi
+#define AROLE D6 // Kapıyı Aç röle
+#define KROLE D7 // Kapıyı Kapatan Röle
+#define BTNA D3 // Manuel Açma Buton 
+#define BTNK D4 // Manuel Kapatma Buton
+#define SNRA D1 // Kapı Açılma Sınır Anahtarı
+#define SNRK D2 // Kapı Kapanma Sınır Anahtarı
+#define LDR D0 // LDR Modülünün Sinyal Girişi
 
 #define SURE 40000
   int MAXSURE;
