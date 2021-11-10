@@ -6,4 +6,4 @@ Motoru röler ile sürüyorum.
 
 
 appinvertor ile mobil uygulama yapmak isterseniz benim kullandığım blokların resmini ekledim. 
-Yaptığım Android uygulamayı ekledim. (**Wifi adı veya Wifi şifresinde değişiklik yapıldığında çalışmayacaktır.)
+Yaptığım Android uygulamayı ekledim. (**Wifi adı veya Wifi şifresinde değişiklik yapıldığında çalışmayacaktır.***)
