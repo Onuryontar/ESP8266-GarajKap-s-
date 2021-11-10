@@ -1,9 +1,21 @@
+/*
+
+ESP8266 default olarak 192.168.4.1 alır. 
+Kendiniz IP atamak isterseniz setup kısmına "softAPConfig (local_ip, gateway, subnet)" komut satırını düzenleyip ekleyebilirsiniz.
+
+ONUR YONTAR 2021
+
+
+
+
+*/
+
 
 #include <ArduinoOTA.h>
 #include <ESP8266WiFi.h>
 
-const char WiFiPassword[] = "70037003";
-const char AP_NameChar[] = "GARAJ_KAPISI_AP" ;
+const char WiFiPassword[] = "1234567"; // wifi şifresini buradan değiştirebilirsiniz.
+const char AP_NameChar[] = "GARAJ_KAPISI_AP" ; // Wifi adının buradan değiştirebilirsiniz. 
  
 WiFiServer server(80);
  
