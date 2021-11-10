@@ -1,4 +1,4 @@
-Merhaba kod içerisine açıklamalar girdi.
+Merhaba kod içerisine açıklamalar girdim.
 Kartın paylaştığı wifi ağına bağlandıktan sonra internet tarayıcısından 192.168.4.1 adresine giderek kapıyı kontrol edebilirsiniz.
 
 Motor kısmında araç silecek motorunu yavaş çalışan modunda kullandım.
