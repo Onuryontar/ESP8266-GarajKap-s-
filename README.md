@@ -1,4 +1,4 @@
 Merhaba kod içerisine açıklamalar girdi.
 
-Motor kısmında araç silecek motoru yavaş çalışan modunda kullandım.
+Motor kısmında araç silecek motorunu yavaş çalışan modunda kullandım.
 Motoru röler ile sürüyorum.
